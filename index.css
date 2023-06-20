@@ -66,9 +66,23 @@
     flex: 70%;
     background-color: white;
     padding: 20px;
+    text-align: left;
+    font: 14px/2 Georgia, serif; 
+    max-width: 900px; 
+   margin: 1rem auto;
+   padding: 1rem;
+  }
+
+  .title {
+    text-align: center;
+    padding-top: 1rem;
   }
   
   /* current */
   .navbar a.rules {
     background-color: green;
   }
+
+.main h2 {
+  text-align: center;
+}
