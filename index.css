@@ -86,3 +86,7 @@
 .main h2 {
   text-align: center;
 }
+
+.main h3 {
+  text-decoration: underline;
+}
